@@ -1,0 +1,6 @@
+- insert:
+    - id: redact
+      name: 'dsh-redact'
+      config:
+        enabled: true
+        maxChars: 400000
