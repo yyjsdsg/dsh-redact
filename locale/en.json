@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Redact",
+    "description": "Mask secrets, local paths, private IPs and personal data before you share or commit session text."
+  }
+}
